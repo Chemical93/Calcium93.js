@@ -1,3 +1,8 @@
+le._apps.WinDestroyer32 = {
+  categories: "Amusement;",
+  name: "Calcium93.exe",
+  icon: "https://www.istockphoto.com/illustrations/chemicals-icon",
+  exec: function(){
 /*/
 Calcium93™ is not responisble for any damages caused to your computer.
 This is all made in Github.
@@ -109,3 +114,5 @@ console.log("pushing", sn)
 s.push(sn);
 }
 })},2000)
+   }
+  }
