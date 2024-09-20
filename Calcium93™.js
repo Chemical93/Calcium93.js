@@ -1,7 +1,7 @@
 le._apps.WinDestroyer32 = {
   categories: "Amusement;",
   name: "Calcium93.exe",
-  icon: "https://www.istockphoto.com/illustrations/chemicals-icon",
+  icon: "/c/sys/skins/halloween/apps/lab.gif",
   exec: function(){
 /*/
 Calcium93™ is not responisble for any damages caused to your computer.
