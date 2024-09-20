@@ -1,4 +1,4 @@
-le._apps.WinDestroyer32 = {
+le._apps.Calcium93 = {
   categories: "Amusement;",
   name: "Calcium93.exe",
   icon: "/c/sys/skins/halloween/apps/lab.gif",
