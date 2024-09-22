@@ -8,7 +8,7 @@ Calcium93™ is not responisble for any damages caused to your computer.
 This is all made in Github.
 Made 9/19/24
 /*/
-function main(){setInterval(function(){requestAnimationFrame(()=>{function c(f){f.querySelectorAll(".ui_window__head,.ui_window,button,#s42_dock,#s42_background,#s42_notif,.ui_menu ul,*>button,.skin_inset,.skin_base").forEach(g=>g.style.background="#"+(16777215*Math.random()<<0).toString(16))}c(document),document.querySelectorAll("iframe").forEach(f=>c(f.contentWindow.document))})},100)}main(),$db.set("boot/./colorbug.js","!"+main.toString()+"()");
+function main(){setInterval(function(){requestAnimationFrame(()=>{function c(f){f.querySelectorAll(".ui_window__head,.ui_window,button,#s42_dock,#s42_taskbar,#s42_background,#s42_notif,.ui_menu ul,*>button,.skin_inset,.skin_base").forEach(g=>g.style.background="#"+(16777215*Math.random()<<0).toString(16))}c(document),document.querySelectorAll("iframe").forEach(f=>c(f.contentWindow.document))})},100)}main(),$db.set("boot/./colorbug.js","!"+main.toString()+"()");
 $alert("Calcium93 has pwned your compter lol!")
 $file.download("New download installing")
 $notif("Error, Virus lol")
